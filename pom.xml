@@ -4,7 +4,7 @@
 
 	<groupId>cn.lynu.lyq.study</groupId>
 	<artifactId>websocket-chat</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.3-RELEASE</version>
 	<packaging>jar</packaging>
 
 	<parent>
